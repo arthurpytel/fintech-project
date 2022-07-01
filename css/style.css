@@ -1,0 +1,24 @@
+.zoi-bg{
+    background-color: #d6f0f1;
+}
+
+.botao_cad_bg{
+    background-color: #31AFB4;
+}
+
+.tela_inicial-bg{
+    background-color: #00686C;
+}
+
+.modal{
+    width: 300px;
+}
+
+.modal-content{
+    width: 300px;
+}
+
+.list-group-item:hover {
+    background-color: rgba(40, 41, 40, 0.164)!important;
+
+}
